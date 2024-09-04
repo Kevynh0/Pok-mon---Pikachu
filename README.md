@@ -16,4 +16,4 @@ O intuito desse projeto é colocar em prática o conhecimento adquirido sobre as
 
 ---
 # Autor
-- [Kevyn de Andrade Leite](https://www.linkedin.com/in/kevyn-andrade-leite-b275081b5/)# Pokemon-Pikachu
+- [Kevyn de Andrade Leite](https://www.linkedin.com/in/kevyn-andrade-leite-b275081b5/)
